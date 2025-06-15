@@ -172,7 +172,7 @@ export default function ContactPage() {
           <div className="container px-4 md:px-6">
             <div className="h-[400px] w-full rounded-lg overflow-hidden">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2540.5775896771193!2d30.52031687680766!3d50.44851308794582!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40d4ce56b2456a3b%3A0xd062ae171b57e947!2z0YPQuy4g0KXRgNC10YnQsNGC0LjQuiwgMSwg0JrQuNC10LIsIDAyMDAw!5e0!3m2!1sru!2sua!4v1715530000000!5m2!1sru!2sua"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2573.1188673832307!2d24.022173799999997!3d49.840224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473add717532da69%3A0xf0cb97b8441ff1fe!2z0LLRg9C70LjRhtGPINCj0L3RltCy0LXRgNGB0LjRgtC10YLRgdGM0LrQsCwgMSwg0JvRjNCy0ZbQsiwg0JvRjNCy0ZbQstGB0YzQutCwINC-0LHQu9Cw0YHRgtGMLCA3OTAwMA!5e0!3m2!1suk!2sua!4v1750024354145!5m2!1suk!2sua"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}

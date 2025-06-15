@@ -135,7 +135,7 @@ export default function AboutPage() {
                 <CardContent className="p-6 flex flex-col items-center text-center">
                   <div className="w-24 h-24 rounded-full bg-muted mb-4 overflow-hidden">
                     <div className="w-full h-full bg-primary/10 flex items-center justify-center text-2xl font-bold">
-                      ОП
+                      ГБ
                     </div>
                   </div>
                   <h3 className="text-xl font-bold">{t.teamMember1}</h3>
@@ -146,7 +146,7 @@ export default function AboutPage() {
                 <CardContent className="p-6 flex flex-col items-center text-center">
                   <div className="w-24 h-24 rounded-full bg-muted mb-4 overflow-hidden">
                     <div className="w-full h-full bg-primary/10 flex items-center justify-center text-2xl font-bold">
-                      МК
+                      БР
                     </div>
                   </div>
                   <h3 className="text-xl font-bold">{t.teamMember2}</h3>
@@ -157,7 +157,7 @@ export default function AboutPage() {
                 <CardContent className="p-6 flex flex-col items-center text-center">
                   <div className="w-24 h-24 rounded-full bg-muted mb-4 overflow-hidden">
                     <div className="w-full h-full bg-primary/10 flex items-center justify-center text-2xl font-bold">
-                      ІШ
+                      ПН
                     </div>
                   </div>
                   <h3 className="text-xl font-bold">{t.teamMember3}</h3>
@@ -168,7 +168,7 @@ export default function AboutPage() {
                 <CardContent className="p-6 flex flex-col items-center text-center">
                   <div className="w-24 h-24 rounded-full bg-muted mb-4 overflow-hidden">
                     <div className="w-full h-full bg-primary/10 flex items-center justify-center text-2xl font-bold">
-                      НМ
+                      ВМ
                     </div>
                   </div>
                   <h3 className="text-xl font-bold">{t.teamMember4}</h3>
